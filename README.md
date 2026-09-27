@@ -16,7 +16,7 @@ Asset Price (S): $42.00
 Strike Price (K): $40.00
 Time to Maturity (T): 0.5 Years (6 Months)
 Risk-Free Rate (r): 10.0% (0.10)
-Volatility (σ): 20.0% (0.20)
+Volatility (sigma): 20.0% (0.20)
 
 Output Result: $4.76 (Matches textbook value ).
 
