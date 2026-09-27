@@ -5,7 +5,7 @@ Black-Scholes European option pricing engine built in python
 # Code Features
 Explicit Type Hinting e.g. float to ensure structural layout.
 Protects against zero/negative time boundaries (`T <= 0`) and zero volatility to systematically eliminate division-by-zero runtime exceptions.
-localized `try-except` protocol so system remains online
+localized `try-except` protocol so system can remain online
 
 # Verification
 The script's accuracy was validated using a reference problem from John C. Hull’s 'Options, Futures, and Other Derivatives':
