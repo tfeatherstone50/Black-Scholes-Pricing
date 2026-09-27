@@ -10,14 +10,10 @@ localized `try-except` protocol so system remains online
 # Verification
 The script's accuracy was validated using a reference problem from John C. Hull’s 'Options, Futures, and Other Derivatives':
 
-Asset Price (S): $42.00
-
-Strike Price (K): $40.00
-
-Time to Maturity (T): 0.5 Years (6 Months)
-
-Risk-Free Rate (r): 10.0% (0.10)
-
+Asset Price (S): $42.00,
+Strike Price (K): $40.00,
+Time to Maturity (T): 0.5 Years (6 Months),
+Risk-Free Rate (r): 10.0% (0.10),
 Volatility (sigma): 20.0% (0.20)
 
 Output Result: $4.76 (Matches textbook value ).
